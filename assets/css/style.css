@@ -306,7 +306,7 @@ h1,h2,h3,.display{
 }
 .experience-grid{
   display:grid;grid-template-columns:repeat(auto-fit, minmax(230px, 1fr));
-  gap:26px;margin-top:56px;max-width:1180px;margin-left:auto;margin-right:auto;
+  gap:26px;max-width:1180px;margin-left:auto;margin-right:auto;
 }
 .value-card{
   padding:34px 28px;border-radius:6px;
